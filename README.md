@@ -1,6 +1,6 @@
 # damianaguirremartinez.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://drive.google.com/file/d/18GpYzNQ7tYFFTw2Pt-KT4r4Pj7ofxCu7/view?usp=sharing).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://damianmartinez2002.github.io/CV-HTML/).
 
 
 
